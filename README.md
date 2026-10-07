@@ -76,7 +76,3 @@ The notebook downloads the price data itself, so no local data files are needed.
 Kamstra, M. J., Kramer, L. A., & Levi, M. D. (2000). Losing sleep at the market: The daylight saving anomaly. *American Economic Review*, 90(4), 1005–1011.
 
 The original paper is not included in this repository for copyright reasons.
-
-## Authors
-
-Group 8, EDHEC Business School. <!-- Add team members' names here, with their agreement. -->
